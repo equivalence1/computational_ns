@@ -12,6 +12,16 @@
 ## 2.2
 
 Тк. решение задачи 2.2 является также и решением задачи 2.1, то сразу для обоих картинка:
+
+```
+Model:
+  V_rel = 1102
+  X = 500 , Y = 500 , Z = 500
+
+Number of spikes (total):  935
+Max consecutive spikes:  132
+```
+
 ![image](https://user-images.githubusercontent.com/7442745/70654388-469b1800-1c67-11ea-848e-2f99f7f3007b.png)
 
 # Analysis
@@ -22,9 +32,44 @@
 
 Ниже просто какие-то картинки, иллюстрирующие всякие средние и крайние случаи
 
+```
+Model:
+  V_rel = 1100
+  X = 500 , Y = 500 , Z = 500
+
+Number of spikes (total):  110
+Max consecutive spikes:  1
+```
 ![image](https://user-images.githubusercontent.com/7442745/70654366-3be08300-1c67-11ea-817c-944e97a18cb0.png)
+
+```
+Model:
+  V_rel = 1102
+  X = 500 , Y = 500 , Z = 500
+
+Number of spikes (total):  935
+Max consecutive spikes:  132
+```
 ![image](https://user-images.githubusercontent.com/7442745/70654410-5155ad00-1c67-11ea-848e-981132fa7d35.png)
+
+```
+Model:
+  V_rel = 1101
+  X = 1500 , Y = 0 , Z = 0
+
+Number of spikes (total):  247
+Max consecutive spikes:  1
+```
 ![image](https://user-images.githubusercontent.com/7442745/70654425-59ade800-1c67-11ea-8113-b55d1db75996.png)
+
+```
+Model:
+  V_rel = 1101
+  X = 0 , Y = 1500 , Z = 0
+
+Number of spikes (total):  541
+Max consecutive spikes:  1
+```
 ![image](https://user-images.githubusercontent.com/7442745/70654439-5fa3c900-1c67-11ea-83cc-3adc885313f1.png)
 
 # Эпилог
